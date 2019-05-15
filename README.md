@@ -1,5 +1,3 @@
-# Deanna Liu Homework 4 #
-
 ## Part II
 
 #### Program 1: Fibonacci
@@ -29,7 +27,7 @@ $ ./hw4_progqsort filename
 
 ## Part III 
 
-* Redo Homework #3 using threads instead.
+* Redo Artist-Manager using threads instead.
 
 ```c
 $ make proghw3
@@ -109,7 +107,3 @@ is such an art museum then that thread should close that art museum using museum
    - Works hand in hand with `museum_ds`
    - The index + 1 corresponds to the Museum Number.
    - i.e. museum_ds_status[0] holds information about Museum 1. 
-
-
-
-# Garbage-Collector
